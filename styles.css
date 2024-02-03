@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.imageContainer{
+	
+}
+table,tr, td{
+	border: 1px solid black;
+}
+body{
+	width: 1100px;
+	background-color: gray;
+}
+.first-column{
+	width: 200px;
+}
+.middle-column{
+	text-align:center;
+	width: 600px;
+}
+.last-column{
+	width: 200px;
+}
